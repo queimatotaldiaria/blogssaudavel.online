@@ -58,3 +58,8 @@ body {
 	font-size: 18px;
 	color: white;
 }
+
+.text-white {
+    color: #000!important;
+	text-decoration: none;
+	text-align: center;
